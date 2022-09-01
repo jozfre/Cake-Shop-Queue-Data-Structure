@@ -1,0 +1,7 @@
+Data for self-pick-up:
+
+1)Customer ID:P111  Cake Type:D24 Chocolate Cake  Price:RM 120.00  Quantity:1  
+2)Customer ID:P113  Cake Type:Red Velvet          Price:RM 80.00   Quantity:3  
+3)Customer ID:P123  Cake Type:D24 Chocolate Cake  Price:RM 120.00  Quantity:3  
+4)Customer ID:P118  Cake Type:Burnt Cheese Cake   Price:RM 100.00  Quantity:1  
+5)Customer ID:P115  Cake Type:Red Velvet          Price:RM 80.00   Quantity:4  
